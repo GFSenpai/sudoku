@@ -1,6 +1,6 @@
 # sudoku
-![preview](img/preview.png)
-![preview2](img/preview.png)
+![preview](static/images/preview.png)
+![preview2](static/images/preview2.png)
 
 ## ⚙️Tecnologias
 
